@@ -1,0 +1,27 @@
+[
+    {
+     "company_name": "ACC",
+     "price" : 2234,
+     "EPS" : 2
+    },
+    {
+     "company_name": "ADANIENT",
+     "price" : 1234,
+     "EPS" : 3
+    },
+    {
+     "company_name": "ADANIPORTS",
+     "price" : 234,
+     "EPS" : 723
+    },
+    {
+     "company_name": "AMBUJACEM",
+     "price" : 264,
+     "EPS" : 53
+    },
+    {
+     "company_name": "APOLLOHOSP",
+     "price" : 2374,
+     "EPS" : 29
+    }
+]
