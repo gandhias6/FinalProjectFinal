@@ -1,1 +1,1010 @@
-[{"company_name": "ACC", "data": [{"price": 7, "date": "01/01/2020"}, {"price": 77, "date": "01/02/2020"}, {"price": 79, "date": "01/03/2020"}, {"price": 21, "date": "01/04/2020"}, {"price": 89, "date": "01/05/2020"}, {"price": 80, "date": "01/06/2020"}, {"price": 55, "date": "01/07/2020"}, {"price": 21, "date": "01/08/2020"}, {"price": 60, "date": "01/09/2020"}]}, {"company_name": "ADANIENT", "data": [{"price": 60, "date": "01/01/2020"}, {"price": 52, "date": "01/02/2020"}, {"price": 36, "date": "01/03/2020"}, {"price": 22, "date": "01/04/2020"}, {"price": 65, "date": "01/05/2020"}, {"price": 47, "date": "01/06/2020"}, {"price": 84, "date": "01/07/2020"}, {"price": 8, "date": "01/08/2020"}, {"price": 40, "date": "01/09/2020"}]}, {"company_name": "ADANIPORTS", "data": [{"price": 49, "date": "01/01/2020"}, {"price": 99, "date": "01/02/2020"}, {"price": 13, "date": "01/03/2020"}, {"price": 10, "date": "01/04/2020"}, {"price": 62, "date": "01/05/2020"}, {"price": 6, "date": "01/06/2020"}, {"price": 99, "date": "01/07/2020"}, {"price": 36, "date": "01/08/2020"}, {"price": 96, "date": "01/09/2020"}]}, {"company_name": "AMBUJACEM", "data": [{"price": 25, "date": "01/01/2020"}, {"price": 83, "date": "01/02/2020"}, {"price": 59, "date": "01/03/2020"}, {"price": 49, "date": "01/04/2020"}, {"price": 100, "date": "01/05/2020"}, {"price": 23, "date": "01/06/2020"}, {"price": 65, "date": "01/07/2020"}, {"price": 77, "date": "01/08/2020"}, {"price": 86, "date": "01/09/2020"}]}, {"company_name": "APOLLOHOSP", "data": [{"price": 1, "date": "01/01/2020"}, {"price": 2, "date": "01/02/2020"}, {"price": 51, "date": "01/03/2020"}, {"price": 40, "date": "01/04/2020"}, {"price": 64, "date": "01/05/2020"}, {"price": 69, "date": "01/06/2020"}, {"price": 15, "date": "01/07/2020"}, {"price": 40, "date": "01/08/2020"}, {"price": 89, "date": "01/09/2020"}]}, {"company_name": "ASIANPAINT", "data": [{"price": 86, "date": "01/01/2020"}, {"price": 23, "date": "01/02/2020"}, {"price": 96, "date": "01/03/2020"}, {"price": 59, "date": "01/04/2020"}, {"price": 15, "date": "01/05/2020"}, {"price": 44, "date": "01/06/2020"}, {"price": 48, "date": "01/07/2020"}, {"price": 19, "date": "01/08/2020"}, {"price": 47, "date": "01/09/2020"}]}, {"company_name": "AUROPHARMA", "data": [{"price": 62, "date": "01/01/2020"}, {"price": 9, "date": "01/02/2020"}, {"price": 57, "date": "01/03/2020"}, {"price": 81, "date": "01/04/2020"}, {"price": 4, "date": "01/05/2020"}, {"price": 98, "date": "01/06/2020"}, {"price": 43, "date": "01/07/2020"}, {"price": 63, "date": "01/08/2020"}, {"price": 25, "date": "01/09/2020"}]}, {"company_name": "AXISBANK", "data": [{"price": 23, "date": "01/01/2020"}, {"price": 15, "date": "01/02/2020"}, {"price": 57, "date": "01/03/2020"}, {"price": 4, "date": "01/04/2020"}, {"price": 44, "date": "01/05/2020"}, {"price": 82, "date": "01/06/2020"}, {"price": 6, "date": "01/07/2020"}, {"price": 89, "date": "01/08/2020"}, {"price": 27, "date": "01/09/2020"}]}, {"company_name": "BAJAJ-AUTO", "data": [{"price": 27, "date": "01/01/2020"}, {"price": 76, "date": "01/02/2020"}, {"price": 62, "date": "01/03/2020"}, {"price": 24, "date": "01/04/2020"}, {"price": 36, "date": "01/05/2020"}, {"price": 75, "date": "01/06/2020"}, {"price": 81, "date": "01/07/2020"}, {"price": 34, "date": "01/08/2020"}, {"price": 11, "date": "01/09/2020"}]}, {"company_name": "BAJAJHLDNG", "data": [{"price": 40, "date": "01/01/2020"}, {"price": 64, "date": "01/02/2020"}, {"price": 55, "date": "01/03/2020"}, {"price": 41, "date": "01/04/2020"}, {"price": 48, "date": "01/05/2020"}, {"price": 16, "date": "01/06/2020"}, {"price": 94, "date": "01/07/2020"}, {"price": 22, "date": "01/08/2020"}, {"price": 16, "date": "01/09/2020"}]}, {"company_name": "BAJFINSV", "data": [{"price": 84, "date": "01/01/2020"}, {"price": 70, "date": "01/02/2020"}, {"price": 20, "date": "01/03/2020"}, {"price": 1, "date": "01/04/2020"}, {"price": 63, "date": "01/05/2020"}, {"price": 78, "date": "01/06/2020"}, {"price": 79, "date": "01/07/2020"}, {"price": 14, "date": "01/08/2020"}, {"price": 71, "date": "01/09/2020"}]}, {"company_name": "BANKBARODA", "data": [{"price": 62, "date": "01/01/2020"}, {"price": 64, "date": "01/02/2020"}, {"price": 25, "date": "01/03/2020"}, {"price": 51, "date": "01/04/2020"}, {"price": 85, "date": "01/05/2020"}, {"price": 92, "date": "01/06/2020"}, {"price": 72, "date": "01/07/2020"}, {"price": 96, "date": "01/08/2020"}, {"price": 46, "date": "01/09/2020"}]}, {"company_name": "BERGERPAINT", "data": [{"price": 32, "date": "01/01/2020"}, {"price": 21, "date": "01/02/2020"}, {"price": 45, "date": "01/03/2020"}, {"price": 30, "date": "01/04/2020"}, {"price": 26, "date": "01/05/2020"}, {"price": 27, "date": "01/06/2020"}, {"price": 76, "date": "01/07/2020"}, {"price": 56, "date": "01/08/2020"}, {"price": 12, "date": "01/09/2020"}]}, {"company_name": "BHARTIAIRTEL", "data": [{"price": 9, "date": "01/01/2020"}, {"price": 20, "date": "01/02/2020"}, {"price": 60, "date": "01/03/2020"}, {"price": 24, "date": "01/04/2020"}, {"price": 25, "date": "01/05/2020"}, {"price": 39, "date": "01/06/2020"}, {"price": 63, "date": "01/07/2020"}, {"price": 38, "date": "01/08/2020"}, {"price": 89, "date": "01/09/2020"}]}, {"company_name": "BIOCON", "data": [{"price": 58, "date": "01/01/2020"}, {"price": 100, "date": "01/02/2020"}, {"price": 56, "date": "01/03/2020"}, {"price": 84, "date": "01/04/2020"}, {"price": 4, "date": "01/05/2020"}, {"price": 77, "date": "01/06/2020"}, {"price": 97, "date": "01/07/2020"}, {"price": 62, "date": "01/08/2020"}, {"price": 26, "date": "01/09/2020"}]}, {"company_name": "BPCL", "data": [{"price": 78, "date": "01/01/2020"}, {"price": 49, "date": "01/02/2020"}, {"price": 36, "date": "01/03/2020"}, {"price": 10, "date": "01/04/2020"}, {"price": 1, "date": "01/05/2020"}, {"price": 1, "date": "01/06/2020"}, {"price": 67, "date": "01/07/2020"}, {"price": 64, "date": "01/08/2020"}, {"price": 95, "date": "01/09/2020"}]}, {"company_name": "BRITANNIA", "data": [{"price": 13, "date": "01/01/2020"}, {"price": 31, "date": "01/02/2020"}, {"price": 70, "date": "01/03/2020"}, {"price": 58, "date": "01/04/2020"}, {"price": 54, "date": "01/05/2020"}, {"price": 51, "date": "01/06/2020"}, {"price": 21, "date": "01/07/2020"}, {"price": 1, "date": "01/08/2020"}, {"price": 22, "date": "01/09/2020"}]}, {"company_name": "CADILAHC", "data": [{"price": 2, "date": "01/01/2020"}, {"price": 43, "date": "01/02/2020"}, {"price": 79, "date": "01/03/2020"}, {"price": 75, "date": "01/04/2020"}, {"price": 59, "date": "01/05/2020"}, {"price": 9, "date": "01/06/2020"}, {"price": 80, "date": "01/07/2020"}, {"price": 36, "date": "01/08/2020"}, {"price": 54, "date": "01/09/2020"}]}, {"company_name": "CHOLAFIN", "data": [{"price": 82, "date": "01/01/2020"}, {"price": 38, "date": "01/02/2020"}, {"price": 74, "date": "01/03/2020"}, {"price": 17, "date": "01/04/2020"}, {"price": 70, "date": "01/05/2020"}, {"price": 67, "date": "01/06/2020"}, {"price": 33, "date": "01/07/2020"}, {"price": 94, "date": "01/08/2020"}, {"price": 27, "date": "01/09/2020"}]}, {"company_name": "CIPLA", "data": [{"price": 5, "date": "01/01/2020"}, {"price": 23, "date": "01/02/2020"}, {"price": 38, "date": "01/03/2020"}, {"price": 94, "date": "01/04/2020"}, {"price": 45, "date": "01/05/2020"}, {"price": 16, "date": "01/06/2020"}, {"price": 93, "date": "01/07/2020"}, {"price": 19, "date": "01/08/2020"}, {"price": 87, "date": "01/09/2020"}]}, {"company_name": "COALINDIA", "data": [{"price": 27, "date": "01/01/2020"}, {"price": 31, "date": "01/02/2020"}, {"price": 40, "date": "01/03/2020"}, {"price": 70, "date": "01/04/2020"}, {"price": 10, "date": "01/05/2020"}, {"price": 82, "date": "01/06/2020"}, {"price": 14, "date": "01/07/2020"}, {"price": 42, "date": "01/08/2020"}, {"price": 54, "date": "01/09/2020"}]}, {"company_name": "DABUR", "data": [{"price": 78, "date": "01/01/2020"}, {"price": 8, "date": "01/02/2020"}, {"price": 38, "date": "01/03/2020"}, {"price": 87, "date": "01/04/2020"}, {"price": 82, "date": "01/05/2020"}, {"price": 66, "date": "01/06/2020"}, {"price": 78, "date": "01/07/2020"}, {"price": 57, "date": "01/08/2020"}, {"price": 16, "date": "01/09/2020"}]}, {"company_name": "DIVISLAB", "data": [{"price": 90, "date": "01/01/2020"}, {"price": 40, "date": "01/02/2020"}, {"price": 89, "date": "01/03/2020"}, {"price": 49, "date": "01/04/2020"}, {"price": 73, "date": "01/05/2020"}, {"price": 89, "date": "01/06/2020"}, {"price": 31, "date": "01/07/2020"}, {"price": 64, "date": "01/08/2020"}, {"price": 36, "date": "01/09/2020"}]}, {"company_name": "DLF", "data": [{"price": 100, "date": "01/01/2020"}, {"price": 25, "date": "01/02/2020"}, {"price": 99, "date": "01/03/2020"}, {"price": 9, "date": "01/04/2020"}, {"price": 9, "date": "01/05/2020"}, {"price": 66, "date": "01/06/2020"}, {"price": 75, "date": "01/07/2020"}, {"price": 63, "date": "01/08/2020"}, {"price": 68, "date": "01/09/2020"}]}, {"company_name": "DRREDDY", "data": [{"price": 16, "date": "01/01/2020"}, {"price": 37, "date": "01/02/2020"}, {"price": 45, "date": "01/03/2020"}, {"price": 2, "date": "01/04/2020"}, {"price": 46, "date": "01/05/2020"}, {"price": 29, "date": "01/06/2020"}, {"price": 15, "date": "01/07/2020"}, {"price": 29, "date": "01/08/2020"}, {"price": 31, "date": "01/09/2020"}]}, {"company_name": "EICHERMOT", "data": [{"price": 84, "date": "01/01/2020"}, {"price": 80, "date": "01/02/2020"}, {"price": 28, "date": "01/03/2020"}, {"price": 66, "date": "01/04/2020"}, {"price": 58, "date": "01/05/2020"}, {"price": 12, "date": "01/06/2020"}, {"price": 3, "date": "01/07/2020"}, {"price": 29, "date": "01/08/2020"}, {"price": 34, "date": "01/09/2020"}]}, {"company_name": "GAIL", "data": [{"price": 50, "date": "01/01/2020"}, {"price": 27, "date": "01/02/2020"}, {"price": 83, "date": "01/03/2020"}, {"price": 67, "date": "01/04/2020"}, {"price": 53, "date": "01/05/2020"}, {"price": 53, "date": "01/06/2020"}, {"price": 94, "date": "01/07/2020"}, {"price": 11, "date": "01/08/2020"}, {"price": 4, "date": "01/09/2020"}]}, {"company_name": "GODREJCP", "data": [{"price": 36, "date": "01/01/2020"}, {"price": 46, "date": "01/02/2020"}, {"price": 97, "date": "01/03/2020"}, {"price": 51, "date": "01/04/2020"}, {"price": 74, "date": "01/05/2020"}, {"price": 5, "date": "01/06/2020"}, {"price": 85, "date": "01/07/2020"}, {"price": 62, "date": "01/08/2020"}, {"price": 25, "date": "01/09/2020"}]}, {"company_name": "GRASIM", "data": [{"price": 65, "date": "01/01/2020"}, {"price": 15, "date": "01/02/2020"}, {"price": 98, "date": "01/03/2020"}, {"price": 100, "date": "01/04/2020"}, {"price": 57, "date": "01/05/2020"}, {"price": 62, "date": "01/06/2020"}, {"price": 55, "date": "01/07/2020"}, {"price": 10, "date": "01/08/2020"}, {"price": 40, "date": "01/09/2020"}]}, {"company_name": "HAVELLS", "data": [{"price": 73, "date": "01/01/2020"}, {"price": 74, "date": "01/02/2020"}, {"price": 9, "date": "01/03/2020"}, {"price": 49, "date": "01/04/2020"}, {"price": 90, "date": "01/05/2020"}, {"price": 89, "date": "01/06/2020"}, {"price": 26, "date": "01/07/2020"}, {"price": 3, "date": "01/08/2020"}, {"price": 21, "date": "01/09/2020"}]}, {"company_name": "HDFC", "data": [{"price": 84, "date": "01/01/2020"}, {"price": 89, "date": "01/02/2020"}, {"price": 11, "date": "01/03/2020"}, {"price": 48, "date": "01/04/2020"}, {"price": 60, "date": "01/05/2020"}, {"price": 33, "date": "01/06/2020"}, {"price": 72, "date": "01/07/2020"}, {"price": 64, "date": "01/08/2020"}, {"price": 4, "date": "01/09/2020"}]}, {"company_name": "HDFCBANK", "data": [{"price": 21, "date": "01/01/2020"}, {"price": 59, "date": "01/02/2020"}, {"price": 41, "date": "01/03/2020"}, {"price": 89, "date": "01/04/2020"}, {"price": 96, "date": "01/05/2020"}, {"price": 68, "date": "01/06/2020"}, {"price": 33, "date": "01/07/2020"}, {"price": 51, "date": "01/08/2020"}, {"price": 48, "date": "01/09/2020"}]}, {"company_name": "HINDALCO", "data": [{"price": 80, "date": "01/01/2020"}, {"price": 82, "date": "01/02/2020"}, {"price": 99, "date": "01/03/2020"}, {"price": 97, "date": "01/04/2020"}, {"price": 26, "date": "01/05/2020"}, {"price": 24, "date": "01/06/2020"}, {"price": 36, "date": "01/07/2020"}, {"price": 92, "date": "01/08/2020"}, {"price": 70, "date": "01/09/2020"}]}, {"company_name": "HINDPETRO", "data": [{"price": 91, "date": "01/01/2020"}, {"price": 26, "date": "01/02/2020"}, {"price": 1, "date": "01/03/2020"}, {"price": 1, "date": "01/04/2020"}, {"price": 10, "date": "01/05/2020"}, {"price": 16, "date": "01/06/2020"}, {"price": 59, "date": "01/07/2020"}, {"price": 59, "date": "01/08/2020"}, {"price": 31, "date": "01/09/2020"}]}, {"company_name": "HINDUNILVR", "data": [{"price": 73, "date": "01/01/2020"}, {"price": 46, "date": "01/02/2020"}, {"price": 6, "date": "01/03/2020"}, {"price": 28, "date": "01/04/2020"}, {"price": 5, "date": "01/05/2020"}, {"price": 25, "date": "01/06/2020"}, {"price": 97, "date": "01/07/2020"}, {"price": 72, "date": "01/08/2020"}, {"price": 55, "date": "01/09/2020"}]}, {"company_name": "ICICIBANK", "data": [{"price": 15, "date": "01/01/2020"}, {"price": 65, "date": "01/02/2020"}, {"price": 36, "date": "01/03/2020"}, {"price": 69, "date": "01/04/2020"}, {"price": 60, "date": "01/05/2020"}, {"price": 59, "date": "01/06/2020"}, {"price": 95, "date": "01/07/2020"}, {"price": 15, "date": "01/08/2020"}, {"price": 98, "date": "01/09/2020"}]}, {"company_name": "INDUSTOWER", "data": [{"price": 59, "date": "01/01/2020"}, {"price": 4, "date": "01/02/2020"}, {"price": 60, "date": "01/03/2020"}, {"price": 21, "date": "01/04/2020"}, {"price": 64, "date": "01/05/2020"}, {"price": 51, "date": "01/06/2020"}, {"price": 34, "date": "01/07/2020"}, {"price": 85, "date": "01/08/2020"}, {"price": 93, "date": "01/09/2020"}]}, {"company_name": "INFY", "data": [{"price": 81, "date": "01/01/2020"}, {"price": 13, "date": "01/02/2020"}, {"price": 37, "date": "01/03/2020"}, {"price": 58, "date": "01/04/2020"}, {"price": 31, "date": "01/05/2020"}, {"price": 17, "date": "01/06/2020"}, {"price": 28, "date": "01/07/2020"}, {"price": 42, "date": "01/08/2020"}, {"price": 16, "date": "01/09/2020"}]}, {"company_name": "IOC", "data": [{"price": 64, "date": "01/01/2020"}, {"price": 9, "date": "01/02/2020"}, {"price": 18, "date": "01/03/2020"}, {"price": 100, "date": "01/04/2020"}, {"price": 26, "date": "01/05/2020"}, {"price": 42, "date": "01/06/2020"}, {"price": 12, "date": "01/07/2020"}, {"price": 38, "date": "01/08/2020"}, {"price": 39, "date": "01/09/2020"}]}, {"company_name": "ITC", "data": [{"price": 72, "date": "01/01/2020"}, {"price": 25, "date": "01/02/2020"}, {"price": 14, "date": "01/03/2020"}, {"price": 42, "date": "01/04/2020"}, {"price": 55, "date": "01/05/2020"}, {"price": 96, "date": "01/06/2020"}, {"price": 30, "date": "01/07/2020"}, {"price": 19, "date": "01/08/2020"}, {"price": 100, "date": "01/09/2020"}]}, {"company_name": "JINDALSTEL", "data": [{"price": 70, "date": "01/01/2020"}, {"price": 74, "date": "01/02/2020"}, {"price": 67, "date": "01/03/2020"}, {"price": 21, "date": "01/04/2020"}, {"price": 47, "date": "01/05/2020"}, {"price": 72, "date": "01/06/2020"}, {"price": 29, "date": "01/07/2020"}, {"price": 37, "date": "01/08/2020"}, {"price": 11, "date": "01/09/2020"}]}, {"company_name": "JSWSTEEL", "data": [{"price": 70, "date": "01/01/2020"}, {"price": 32, "date": "01/02/2020"}, {"price": 41, "date": "01/03/2020"}, {"price": 62, "date": "01/04/2020"}, {"price": 5, "date": "01/05/2020"}, {"price": 38, "date": "01/06/2020"}, {"price": 72, "date": "01/07/2020"}, {"price": 2, "date": "01/08/2020"}, {"price": 77, "date": "01/09/2020"}]}, {"company_name": "JUBLFOOD", "data": [{"price": 19, "date": "01/01/2020"}, {"price": 9, "date": "01/02/2020"}, {"price": 38, "date": "01/03/2020"}, {"price": 6, "date": "01/04/2020"}, {"price": 35, "date": "01/05/2020"}, {"price": 99, "date": "01/06/2020"}, {"price": 42, "date": "01/07/2020"}, {"price": 62, "date": "01/08/2020"}, {"price": 47, "date": "01/09/2020"}]}, {"company_name": "KOTAKBANK", "data": [{"price": 25, "date": "01/01/2020"}, {"price": 24, "date": "01/02/2020"}, {"price": 44, "date": "01/03/2020"}, {"price": 56, "date": "01/04/2020"}, {"price": 74, "date": "01/05/2020"}, {"price": 86, "date": "01/06/2020"}, {"price": 14, "date": "01/07/2020"}, {"price": 54, "date": "01/08/2020"}, {"price": 1, "date": "01/09/2020"}]}, {"company_name": "LT", "data": [{"price": 11, "date": "01/01/2020"}, {"price": 9, "date": "01/02/2020"}, {"price": 95, "date": "01/03/2020"}, {"price": 74, "date": "01/04/2020"}, {"price": 7, "date": "01/05/2020"}, {"price": 93, "date": "01/06/2020"}, {"price": 71, "date": "01/07/2020"}, {"price": 22, "date": "01/08/2020"}, {"price": 46, "date": "01/09/2020"}]}, {"company_name": "LUPIN", "data": [{"price": 45, "date": "01/01/2020"}, {"price": 19, "date": "01/02/2020"}, {"price": 64, "date": "01/03/2020"}, {"price": 14, "date": "01/04/2020"}, {"price": 29, "date": "01/05/2020"}, {"price": 45, "date": "01/06/2020"}, {"price": 28, "date": "01/07/2020"}, {"price": 30, "date": "01/08/2020"}, {"price": 49, "date": "01/09/2020"}]}, {"company_name": "M&M", "data": [{"price": 16, "date": "01/01/2020"}, {"price": 76, "date": "01/02/2020"}, {"price": 59, "date": "01/03/2020"}, {"price": 12, "date": "01/04/2020"}, {"price": 79, "date": "01/05/2020"}, {"price": 68, "date": "01/06/2020"}, {"price": 60, "date": "01/07/2020"}, {"price": 44, "date": "01/08/2020"}, {"price": 41, "date": "01/09/2020"}]}, {"company_name": "MARICO", "data": [{"price": 73, "date": "01/01/2020"}, {"price": 89, "date": "01/02/2020"}, {"price": 36, "date": "01/03/2020"}, {"price": 70, "date": "01/04/2020"}, {"price": 50, "date": "01/05/2020"}, {"price": 47, "date": "01/06/2020"}, {"price": 16, "date": "01/07/2020"}, {"price": 91, "date": "01/08/2020"}, {"price": 94, "date": "01/09/2020"}]}, {"company_name": "MARUTI", "data": [{"price": 50, "date": "01/01/2020"}, {"price": 84, "date": "01/02/2020"}, {"price": 27, "date": "01/03/2020"}, {"price": 96, "date": "01/04/2020"}, {"price": 100, "date": "01/05/2020"}, {"price": 77, "date": "01/06/2020"}, {"price": 18, "date": "01/07/2020"}, {"price": 20, "date": "01/08/2020"}, {"price": 99, "date": "01/09/2020"}]}, {"company_name": "MCDOWELL-N", "data": [{"price": 1, "date": "01/01/2020"}, {"price": 32, "date": "01/02/2020"}, {"price": 10, "date": "01/03/2020"}, {"price": 67, "date": "01/04/2020"}, {"price": 39, "date": "01/05/2020"}, {"price": 87, "date": "01/06/2020"}, {"price": 28, "date": "01/07/2020"}, {"price": 86, "date": "01/08/2020"}, {"price": 97, "date": "01/09/2020"}]}, {"company_name": "NAUKRI", "data": [{"price": 46, "date": "01/01/2020"}, {"price": 21, "date": "01/02/2020"}, {"price": 36, "date": "01/03/2020"}, {"price": 95, "date": "01/04/2020"}, {"price": 89, "date": "01/05/2020"}, {"price": 14, "date": "01/06/2020"}, {"price": 1, "date": "01/07/2020"}, {"price": 60, "date": "01/08/2020"}, {"price": 25, "date": "01/09/2020"}]}, {"company_name": "NTPC", "data": [{"price": 19, "date": "01/01/2020"}, {"price": 2, "date": "01/02/2020"}, {"price": 28, "date": "01/03/2020"}, {"price": 92, "date": "01/04/2020"}, {"price": 90, "date": "01/05/2020"}, {"price": 81, "date": "01/06/2020"}, {"price": 82, "date": "01/07/2020"}, {"price": 66, "date": "01/08/2020"}, {"price": 87, "date": "01/09/2020"}]}, {"company_name": "ONGC", "data": [{"price": 57, "date": "01/01/2020"}, {"price": 65, "date": "01/02/2020"}, {"price": 58, "date": "01/03/2020"}, {"price": 8, "date": "01/04/2020"}, {"price": 14, "date": "01/05/2020"}, {"price": 8, "date": "01/06/2020"}, {"price": 34, "date": "01/07/2020"}, {"price": 37, "date": "01/08/2020"}, {"price": 78, "date": "01/09/2020"}]}, {"company_name": "PEL", "data": [{"price": 100, "date": "01/01/2020"}, {"price": 46, "date": "01/02/2020"}, {"price": 100, "date": "01/03/2020"}, {"price": 94, "date": "01/04/2020"}, {"price": 39, "date": "01/05/2020"}, {"price": 39, "date": "01/06/2020"}, {"price": 44, "date": "01/07/2020"}, {"price": 100, "date": "01/08/2020"}, {"price": 44, "date": "01/09/2020"}]}, {"company_name": "PIDILITE", "data": [{"price": 10, "date": "01/01/2020"}, {"price": 75, "date": "01/02/2020"}, {"price": 77, "date": "01/03/2020"}, {"price": 13, "date": "01/04/2020"}, {"price": 82, "date": "01/05/2020"}, {"price": 24, "date": "01/06/2020"}, {"price": 34, "date": "01/07/2020"}, {"price": 74, "date": "01/08/2020"}, {"price": 58, "date": "01/09/2020"}]}, {"company_name": "PNB", "data": [{"price": 74, "date": "01/01/2020"}, {"price": 37, "date": "01/02/2020"}, {"price": 51, "date": "01/03/2020"}, {"price": 13, "date": "01/04/2020"}, {"price": 33, "date": "01/05/2020"}, {"price": 9, "date": "01/06/2020"}, {"price": 12, "date": "01/07/2020"}, {"price": 64, "date": "01/08/2020"}, {"price": 10, "date": "01/09/2020"}]}, {"company_name": "POWER GRID", "data": [{"price": 16, "date": "01/01/2020"}, {"price": 24, "date": "01/02/2020"}, {"price": 1, "date": "01/03/2020"}, {"price": 36, "date": "01/04/2020"}, {"price": 24, "date": "01/05/2020"}, {"price": 39, "date": "01/06/2020"}, {"price": 26, "date": "01/07/2020"}, {"price": 14, "date": "01/08/2020"}, {"price": 58, "date": "01/09/2020"}]}, {"company_name": "RELIANCE", "data": [{"price": 42, "date": "01/01/2020"}, {"price": 58, "date": "01/02/2020"}, {"price": 30, "date": "01/03/2020"}, {"price": 81, "date": "01/04/2020"}, {"price": 79, "date": "01/05/2020"}, {"price": 2, "date": "01/06/2020"}, {"price": 56, "date": "01/07/2020"}, {"price": 95, "date": "01/08/2020"}, {"price": 39, "date": "01/09/2020"}]}, {"company_name": "SAIL", "data": [{"price": 58, "date": "01/01/2020"}, {"price": 10, "date": "01/02/2020"}, {"price": 69, "date": "01/03/2020"}, {"price": 38, "date": "01/04/2020"}, {"price": 23, "date": "01/05/2020"}, {"price": 22, "date": "01/06/2020"}, {"price": 78, "date": "01/07/2020"}, {"price": 13, "date": "01/08/2020"}, {"price": 14, "date": "01/09/2020"}]}, {"company_name": "SBIN", "data": [{"price": 57, "date": "01/01/2020"}, {"price": 93, "date": "01/02/2020"}, {"price": 44, "date": "01/03/2020"}, {"price": 74, "date": "01/04/2020"}, {"price": 76, "date": "01/05/2020"}, {"price": 17, "date": "01/06/2020"}, {"price": 77, "date": "01/07/2020"}, {"price": 1, "date": "01/08/2020"}, {"price": 17, "date": "01/09/2020"}]}, {"company_name": "SUNPHARMA", "data": [{"price": 33, "date": "01/01/2020"}, {"price": 57, "date": "01/02/2020"}, {"price": 65, "date": "01/03/2020"}, {"price": 51, "date": "01/04/2020"}, {"price": 10, "date": "01/05/2020"}, {"price": 48, "date": "01/06/2020"}, {"price": 94, "date": "01/07/2020"}, {"price": 57, "date": "01/08/2020"}, {"price": 100, "date": "01/09/2020"}]}, {"company_name": "TATACONSUM", "data": [{"price": 18, "date": "01/01/2020"}, {"price": 41, "date": "01/02/2020"}, {"price": 83, "date": "01/03/2020"}, {"price": 32, "date": "01/04/2020"}, {"price": 81, "date": "01/05/2020"}, {"price": 35, "date": "01/06/2020"}, {"price": 76, "date": "01/07/2020"}, {"price": 46, "date": "01/08/2020"}, {"price": 91, "date": "01/09/2020"}]}, {"company_name": "TATAMOTORS", "data": [{"price": 73, "date": "01/01/2020"}, {"price": 74, "date": "01/02/2020"}, {"price": 47, "date": "01/03/2020"}, {"price": 75, "date": "01/04/2020"}, {"price": 70, "date": "01/05/2020"}, {"price": 79, "date": "01/06/2020"}, {"price": 80, "date": "01/07/2020"}, {"price": 23, "date": "01/08/2020"}, {"price": 24, "date": "01/09/2020"}]}, {"company_name": "TATASTEEL", "data": [{"price": 45, "date": "01/01/2020"}, {"price": 83, "date": "01/02/2020"}, {"price": 89, "date": "01/03/2020"}, {"price": 8, "date": "01/04/2020"}, {"price": 19, "date": "01/05/2020"}, {"price": 33, "date": "01/06/2020"}, {"price": 100, "date": "01/07/2020"}, {"price": 36, "date": "01/08/2020"}, {"price": 23, "date": "01/09/2020"}]}, {"company_name": "TCS", "data": [{"price": 63, "date": "01/01/2020"}, {"price": 49, "date": "01/02/2020"}, {"price": 85, "date": "01/03/2020"}, {"price": 18, "date": "01/04/2020"}, {"price": 87, "date": "01/05/2020"}, {"price": 22, "date": "01/06/2020"}, {"price": 81, "date": "01/07/2020"}, {"price": 57, "date": "01/08/2020"}, {"price": 28, "date": "01/09/2020"}]}, {"company_name": "TECHM", "data": [{"price": 74, "date": "01/01/2020"}, {"price": 8, "date": "01/02/2020"}, {"price": 74, "date": "01/03/2020"}, {"price": 38, "date": "01/04/2020"}, {"price": 74, "date": "01/05/2020"}, {"price": 46, "date": "01/06/2020"}, {"price": 5, "date": "01/07/2020"}, {"price": 49, "date": "01/08/2020"}, {"price": 50, "date": "01/09/2020"}]}, {"company_name": "TITAN", "data": [{"price": 69, "date": "01/01/2020"}, {"price": 60, "date": "01/02/2020"}, {"price": 78, "date": "01/03/2020"}, {"price": 85, "date": "01/04/2020"}, {"price": 19, "date": "01/05/2020"}, {"price": 9, "date": "01/06/2020"}, {"price": 11, "date": "01/07/2020"}, {"price": 23, "date": "01/08/2020"}, {"price": 23, "date": "01/09/2020"}]}, {"company_name": "TORRENTPHARM", "data": [{"price": 94, "date": "01/01/2020"}, {"price": 92, "date": "01/02/2020"}, {"price": 6, "date": "01/03/2020"}, {"price": 75, "date": "01/04/2020"}, {"price": 19, "date": "01/05/2020"}, {"price": 88, "date": "01/06/2020"}, {"price": 99, "date": "01/07/2020"}, {"price": 29, "date": "01/08/2020"}, {"price": 18, "date": "01/09/2020"}]}, {"company_name": "ULTRACEMCO", "data": [{"price": 37, "date": "01/01/2020"}, {"price": 60, "date": "01/02/2020"}, {"price": 12, "date": "01/03/2020"}, {"price": 51, "date": "01/04/2020"}, {"price": 94, "date": "01/05/2020"}, {"price": 42, "date": "01/06/2020"}, {"price": 29, "date": "01/07/2020"}, {"price": 44, "date": "01/08/2020"}, {"price": 9, "date": "01/09/2020"}]}, {"company_name": "UPL ", "data": [{"price": 81, "date": "01/01/2020"}, {"price": 12, "date": "01/02/2020"}, {"price": 80, "date": "01/03/2020"}, {"price": 26, "date": "01/04/2020"}, {"price": 22, "date": "01/05/2020"}, {"price": 79, "date": "01/06/2020"}, {"price": 89, "date": "01/07/2020"}, {"price": 38, "date": "01/08/2020"}, {"price": 95, "date": "01/09/2020"}]}, {"company_name": "VEDL", "data": [{"price": 94, "date": "01/01/2020"}, {"price": 31, "date": "01/02/2020"}, {"price": 74, "date": "01/03/2020"}, {"price": 92, "date": "01/04/2020"}, {"price": 1, "date": "01/05/2020"}, {"price": 36, "date": "01/06/2020"}, {"price": 73, "date": "01/07/2020"}, {"price": 36, "date": "01/08/2020"}, {"price": 60, "date": "01/09/2020"}]}, {"company_name": "WIPRO", "data": [{"price": 89, "date": "01/01/2020"}, {"price": 23, "date": "01/02/2020"}, {"price": 26, "date": "01/03/2020"}, {"price": 72, "date": "01/04/2020"}, {"price": 44, "date": "01/05/2020"}, {"price": 78, "date": "01/06/2020"}, {"price": 100, "date": "01/07/2020"}, {"price": 47, "date": "01/08/2020"}, {"price": 71, "date": "01/09/2020"}]}]
+[
+  {
+    "company_name": "ACC",
+    "data": [
+      { "price": 7, "date": "01/01/2020" },
+      { "price": 77, "date": "01/02/2020" },
+      { "price": 79, "date": "01/03/2020" },
+      { "price": 21, "date": "01/04/2020" },
+      { "price": 89, "date": "01/05/2020" },
+      { "price": 80, "date": "01/06/2020" },
+      { "price": 55, "date": "01/07/2020" },
+      { "price": 21, "date": "01/08/2020" },
+      { "price": 60, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ADANIENT",
+    "data": [
+      { "price": 60, "date": "01/01/2020" },
+      { "price": 52, "date": "01/02/2020" },
+      { "price": 36, "date": "01/03/2020" },
+      { "price": 22, "date": "01/04/2020" },
+      { "price": 65, "date": "01/05/2020" },
+      { "price": 47, "date": "01/06/2020" },
+      { "price": 84, "date": "01/07/2020" },
+      { "price": 8, "date": "01/08/2020" },
+      { "price": 40, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ADANIPORTS",
+    "data": [
+      { "price": 49, "date": "01/01/2020" },
+      { "price": 99, "date": "01/02/2020" },
+      { "price": 13, "date": "01/03/2020" },
+      { "price": 10, "date": "01/04/2020" },
+      { "price": 62, "date": "01/05/2020" },
+      { "price": 6, "date": "01/06/2020" },
+      { "price": 99, "date": "01/07/2020" },
+      { "price": 36, "date": "01/08/2020" },
+      { "price": 96, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "AMBUJACEM",
+    "data": [
+      { "price": 25, "date": "01/01/2020" },
+      { "price": 83, "date": "01/02/2020" },
+      { "price": 59, "date": "01/03/2020" },
+      { "price": 49, "date": "01/04/2020" },
+      { "price": 100, "date": "01/05/2020" },
+      { "price": 23, "date": "01/06/2020" },
+      { "price": 65, "date": "01/07/2020" },
+      { "price": 77, "date": "01/08/2020" },
+      { "price": 86, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "APOLLOHOSP",
+    "data": [
+      { "price": 1, "date": "01/01/2020" },
+      { "price": 2, "date": "01/02/2020" },
+      { "price": 51, "date": "01/03/2020" },
+      { "price": 40, "date": "01/04/2020" },
+      { "price": 64, "date": "01/05/2020" },
+      { "price": 69, "date": "01/06/2020" },
+      { "price": 15, "date": "01/07/2020" },
+      { "price": 40, "date": "01/08/2020" },
+      { "price": 89, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ASIANPAINT",
+    "data": [
+      { "price": 86, "date": "01/01/2020" },
+      { "price": 23, "date": "01/02/2020" },
+      { "price": 96, "date": "01/03/2020" },
+      { "price": 59, "date": "01/04/2020" },
+      { "price": 15, "date": "01/05/2020" },
+      { "price": 44, "date": "01/06/2020" },
+      { "price": 48, "date": "01/07/2020" },
+      { "price": 19, "date": "01/08/2020" },
+      { "price": 47, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "AUROPHARMA",
+    "data": [
+      { "price": 62, "date": "01/01/2020" },
+      { "price": 9, "date": "01/02/2020" },
+      { "price": 57, "date": "01/03/2020" },
+      { "price": 81, "date": "01/04/2020" },
+      { "price": 4, "date": "01/05/2020" },
+      { "price": 98, "date": "01/06/2020" },
+      { "price": 43, "date": "01/07/2020" },
+      { "price": 63, "date": "01/08/2020" },
+      { "price": 25, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "AXISBANK",
+    "data": [
+      { "price": 23, "date": "01/01/2020" },
+      { "price": 15, "date": "01/02/2020" },
+      { "price": 57, "date": "01/03/2020" },
+      { "price": 4, "date": "01/04/2020" },
+      { "price": 44, "date": "01/05/2020" },
+      { "price": 82, "date": "01/06/2020" },
+      { "price": 6, "date": "01/07/2020" },
+      { "price": 89, "date": "01/08/2020" },
+      { "price": 27, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BAJAJ-AUTO",
+    "data": [
+      { "price": 27, "date": "01/01/2020" },
+      { "price": 76, "date": "01/02/2020" },
+      { "price": 62, "date": "01/03/2020" },
+      { "price": 24, "date": "01/04/2020" },
+      { "price": 36, "date": "01/05/2020" },
+      { "price": 75, "date": "01/06/2020" },
+      { "price": 81, "date": "01/07/2020" },
+      { "price": 34, "date": "01/08/2020" },
+      { "price": 11, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BAJAJHLDNG",
+    "data": [
+      { "price": 40, "date": "01/01/2020" },
+      { "price": 64, "date": "01/02/2020" },
+      { "price": 55, "date": "01/03/2020" },
+      { "price": 41, "date": "01/04/2020" },
+      { "price": 48, "date": "01/05/2020" },
+      { "price": 16, "date": "01/06/2020" },
+      { "price": 94, "date": "01/07/2020" },
+      { "price": 22, "date": "01/08/2020" },
+      { "price": 16, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BAJFINSV",
+    "data": [
+      { "price": 84, "date": "01/01/2020" },
+      { "price": 70, "date": "01/02/2020" },
+      { "price": 20, "date": "01/03/2020" },
+      { "price": 1, "date": "01/04/2020" },
+      { "price": 63, "date": "01/05/2020" },
+      { "price": 78, "date": "01/06/2020" },
+      { "price": 79, "date": "01/07/2020" },
+      { "price": 14, "date": "01/08/2020" },
+      { "price": 71, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BANKBARODA",
+    "data": [
+      { "price": 62, "date": "01/01/2020" },
+      { "price": 64, "date": "01/02/2020" },
+      { "price": 25, "date": "01/03/2020" },
+      { "price": 51, "date": "01/04/2020" },
+      { "price": 85, "date": "01/05/2020" },
+      { "price": 92, "date": "01/06/2020" },
+      { "price": 72, "date": "01/07/2020" },
+      { "price": 96, "date": "01/08/2020" },
+      { "price": 46, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BERGERPAINT",
+    "data": [
+      { "price": 32, "date": "01/01/2020" },
+      { "price": 21, "date": "01/02/2020" },
+      { "price": 45, "date": "01/03/2020" },
+      { "price": 30, "date": "01/04/2020" },
+      { "price": 26, "date": "01/05/2020" },
+      { "price": 27, "date": "01/06/2020" },
+      { "price": 76, "date": "01/07/2020" },
+      { "price": 56, "date": "01/08/2020" },
+      { "price": 12, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BHARTIAIRTEL",
+    "data": [
+      { "price": 9, "date": "01/01/2020" },
+      { "price": 20, "date": "01/02/2020" },
+      { "price": 60, "date": "01/03/2020" },
+      { "price": 24, "date": "01/04/2020" },
+      { "price": 25, "date": "01/05/2020" },
+      { "price": 39, "date": "01/06/2020" },
+      { "price": 63, "date": "01/07/2020" },
+      { "price": 38, "date": "01/08/2020" },
+      { "price": 89, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BIOCON",
+    "data": [
+      { "price": 58, "date": "01/01/2020" },
+      { "price": 100, "date": "01/02/2020" },
+      { "price": 56, "date": "01/03/2020" },
+      { "price": 84, "date": "01/04/2020" },
+      { "price": 4, "date": "01/05/2020" },
+      { "price": 77, "date": "01/06/2020" },
+      { "price": 97, "date": "01/07/2020" },
+      { "price": 62, "date": "01/08/2020" },
+      { "price": 26, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BPCL",
+    "data": [
+      { "price": 78, "date": "01/01/2020" },
+      { "price": 49, "date": "01/02/2020" },
+      { "price": 36, "date": "01/03/2020" },
+      { "price": 10, "date": "01/04/2020" },
+      { "price": 1, "date": "01/05/2020" },
+      { "price": 1, "date": "01/06/2020" },
+      { "price": 67, "date": "01/07/2020" },
+      { "price": 64, "date": "01/08/2020" },
+      { "price": 95, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "BRITANNIA",
+    "data": [
+      { "price": 13, "date": "01/01/2020" },
+      { "price": 31, "date": "01/02/2020" },
+      { "price": 70, "date": "01/03/2020" },
+      { "price": 58, "date": "01/04/2020" },
+      { "price": 54, "date": "01/05/2020" },
+      { "price": 51, "date": "01/06/2020" },
+      { "price": 21, "date": "01/07/2020" },
+      { "price": 1, "date": "01/08/2020" },
+      { "price": 22, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "CADILAHC",
+    "data": [
+      { "price": 2, "date": "01/01/2020" },
+      { "price": 43, "date": "01/02/2020" },
+      { "price": 79, "date": "01/03/2020" },
+      { "price": 75, "date": "01/04/2020" },
+      { "price": 59, "date": "01/05/2020" },
+      { "price": 9, "date": "01/06/2020" },
+      { "price": 80, "date": "01/07/2020" },
+      { "price": 36, "date": "01/08/2020" },
+      { "price": 54, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "CHOLAFIN",
+    "data": [
+      { "price": 82, "date": "01/01/2020" },
+      { "price": 38, "date": "01/02/2020" },
+      { "price": 74, "date": "01/03/2020" },
+      { "price": 17, "date": "01/04/2020" },
+      { "price": 70, "date": "01/05/2020" },
+      { "price": 67, "date": "01/06/2020" },
+      { "price": 33, "date": "01/07/2020" },
+      { "price": 94, "date": "01/08/2020" },
+      { "price": 27, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "CIPLA",
+    "data": [
+      { "price": 5, "date": "01/01/2020" },
+      { "price": 23, "date": "01/02/2020" },
+      { "price": 38, "date": "01/03/2020" },
+      { "price": 94, "date": "01/04/2020" },
+      { "price": 45, "date": "01/05/2020" },
+      { "price": 16, "date": "01/06/2020" },
+      { "price": 93, "date": "01/07/2020" },
+      { "price": 19, "date": "01/08/2020" },
+      { "price": 87, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "COALINDIA",
+    "data": [
+      { "price": 27, "date": "01/01/2020" },
+      { "price": 31, "date": "01/02/2020" },
+      { "price": 40, "date": "01/03/2020" },
+      { "price": 70, "date": "01/04/2020" },
+      { "price": 10, "date": "01/05/2020" },
+      { "price": 82, "date": "01/06/2020" },
+      { "price": 14, "date": "01/07/2020" },
+      { "price": 42, "date": "01/08/2020" },
+      { "price": 54, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "DABUR",
+    "data": [
+      { "price": 78, "date": "01/01/2020" },
+      { "price": 8, "date": "01/02/2020" },
+      { "price": 38, "date": "01/03/2020" },
+      { "price": 87, "date": "01/04/2020" },
+      { "price": 82, "date": "01/05/2020" },
+      { "price": 66, "date": "01/06/2020" },
+      { "price": 78, "date": "01/07/2020" },
+      { "price": 57, "date": "01/08/2020" },
+      { "price": 16, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "DIVISLAB",
+    "data": [
+      { "price": 90, "date": "01/01/2020" },
+      { "price": 40, "date": "01/02/2020" },
+      { "price": 89, "date": "01/03/2020" },
+      { "price": 49, "date": "01/04/2020" },
+      { "price": 73, "date": "01/05/2020" },
+      { "price": 89, "date": "01/06/2020" },
+      { "price": 31, "date": "01/07/2020" },
+      { "price": 64, "date": "01/08/2020" },
+      { "price": 36, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "DLF",
+    "data": [
+      { "price": 100, "date": "01/01/2020" },
+      { "price": 25, "date": "01/02/2020" },
+      { "price": 99, "date": "01/03/2020" },
+      { "price": 9, "date": "01/04/2020" },
+      { "price": 9, "date": "01/05/2020" },
+      { "price": 66, "date": "01/06/2020" },
+      { "price": 75, "date": "01/07/2020" },
+      { "price": 63, "date": "01/08/2020" },
+      { "price": 68, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "DRREDDY",
+    "data": [
+      { "price": 16, "date": "01/01/2020" },
+      { "price": 37, "date": "01/02/2020" },
+      { "price": 45, "date": "01/03/2020" },
+      { "price": 2, "date": "01/04/2020" },
+      { "price": 46, "date": "01/05/2020" },
+      { "price": 29, "date": "01/06/2020" },
+      { "price": 15, "date": "01/07/2020" },
+      { "price": 29, "date": "01/08/2020" },
+      { "price": 31, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "EICHERMOT",
+    "data": [
+      { "price": 84, "date": "01/01/2020" },
+      { "price": 80, "date": "01/02/2020" },
+      { "price": 28, "date": "01/03/2020" },
+      { "price": 66, "date": "01/04/2020" },
+      { "price": 58, "date": "01/05/2020" },
+      { "price": 12, "date": "01/06/2020" },
+      { "price": 3, "date": "01/07/2020" },
+      { "price": 29, "date": "01/08/2020" },
+      { "price": 34, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "GAIL",
+    "data": [
+      { "price": 50, "date": "01/01/2020" },
+      { "price": 27, "date": "01/02/2020" },
+      { "price": 83, "date": "01/03/2020" },
+      { "price": 67, "date": "01/04/2020" },
+      { "price": 53, "date": "01/05/2020" },
+      { "price": 53, "date": "01/06/2020" },
+      { "price": 94, "date": "01/07/2020" },
+      { "price": 11, "date": "01/08/2020" },
+      { "price": 4, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "GODREJCP",
+    "data": [
+      { "price": 36, "date": "01/01/2020" },
+      { "price": 46, "date": "01/02/2020" },
+      { "price": 97, "date": "01/03/2020" },
+      { "price": 51, "date": "01/04/2020" },
+      { "price": 74, "date": "01/05/2020" },
+      { "price": 5, "date": "01/06/2020" },
+      { "price": 85, "date": "01/07/2020" },
+      { "price": 62, "date": "01/08/2020" },
+      { "price": 25, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "GRASIM",
+    "data": [
+      { "price": 65, "date": "01/01/2020" },
+      { "price": 15, "date": "01/02/2020" },
+      { "price": 98, "date": "01/03/2020" },
+      { "price": 100, "date": "01/04/2020" },
+      { "price": 57, "date": "01/05/2020" },
+      { "price": 62, "date": "01/06/2020" },
+      { "price": 55, "date": "01/07/2020" },
+      { "price": 10, "date": "01/08/2020" },
+      { "price": 40, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HAVELLS",
+    "data": [
+      { "price": 73, "date": "01/01/2020" },
+      { "price": 74, "date": "01/02/2020" },
+      { "price": 9, "date": "01/03/2020" },
+      { "price": 49, "date": "01/04/2020" },
+      { "price": 90, "date": "01/05/2020" },
+      { "price": 89, "date": "01/06/2020" },
+      { "price": 26, "date": "01/07/2020" },
+      { "price": 3, "date": "01/08/2020" },
+      { "price": 21, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HDFC",
+    "data": [
+      { "price": 84, "date": "01/01/2020" },
+      { "price": 89, "date": "01/02/2020" },
+      { "price": 11, "date": "01/03/2020" },
+      { "price": 48, "date": "01/04/2020" },
+      { "price": 60, "date": "01/05/2020" },
+      { "price": 33, "date": "01/06/2020" },
+      { "price": 72, "date": "01/07/2020" },
+      { "price": 64, "date": "01/08/2020" },
+      { "price": 4, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HDFCBANK",
+    "data": [
+      { "price": 21, "date": "01/01/2020" },
+      { "price": 59, "date": "01/02/2020" },
+      { "price": 41, "date": "01/03/2020" },
+      { "price": 89, "date": "01/04/2020" },
+      { "price": 96, "date": "01/05/2020" },
+      { "price": 68, "date": "01/06/2020" },
+      { "price": 33, "date": "01/07/2020" },
+      { "price": 51, "date": "01/08/2020" },
+      { "price": 48, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HINDALCO",
+    "data": [
+      { "price": 80, "date": "01/01/2020" },
+      { "price": 82, "date": "01/02/2020" },
+      { "price": 99, "date": "01/03/2020" },
+      { "price": 97, "date": "01/04/2020" },
+      { "price": 26, "date": "01/05/2020" },
+      { "price": 24, "date": "01/06/2020" },
+      { "price": 36, "date": "01/07/2020" },
+      { "price": 92, "date": "01/08/2020" },
+      { "price": 70, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HINDPETRO",
+    "data": [
+      { "price": 91, "date": "01/01/2020" },
+      { "price": 26, "date": "01/02/2020" },
+      { "price": 1, "date": "01/03/2020" },
+      { "price": 1, "date": "01/04/2020" },
+      { "price": 10, "date": "01/05/2020" },
+      { "price": 16, "date": "01/06/2020" },
+      { "price": 59, "date": "01/07/2020" },
+      { "price": 59, "date": "01/08/2020" },
+      { "price": 31, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "HINDUNILVR",
+    "data": [
+      { "price": 73, "date": "01/01/2020" },
+      { "price": 46, "date": "01/02/2020" },
+      { "price": 6, "date": "01/03/2020" },
+      { "price": 28, "date": "01/04/2020" },
+      { "price": 5, "date": "01/05/2020" },
+      { "price": 25, "date": "01/06/2020" },
+      { "price": 97, "date": "01/07/2020" },
+      { "price": 72, "date": "01/08/2020" },
+      { "price": 55, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ICICIBANK",
+    "data": [
+      { "price": 15, "date": "01/01/2020" },
+      { "price": 65, "date": "01/02/2020" },
+      { "price": 36, "date": "01/03/2020" },
+      { "price": 69, "date": "01/04/2020" },
+      { "price": 60, "date": "01/05/2020" },
+      { "price": 59, "date": "01/06/2020" },
+      { "price": 95, "date": "01/07/2020" },
+      { "price": 15, "date": "01/08/2020" },
+      { "price": 98, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "INDUSTOWER",
+    "data": [
+      { "price": 59, "date": "01/01/2020" },
+      { "price": 4, "date": "01/02/2020" },
+      { "price": 60, "date": "01/03/2020" },
+      { "price": 21, "date": "01/04/2020" },
+      { "price": 64, "date": "01/05/2020" },
+      { "price": 51, "date": "01/06/2020" },
+      { "price": 34, "date": "01/07/2020" },
+      { "price": 85, "date": "01/08/2020" },
+      { "price": 93, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "INFY",
+    "data": [
+      { "price": 81, "date": "01/01/2020" },
+      { "price": 13, "date": "01/02/2020" },
+      { "price": 37, "date": "01/03/2020" },
+      { "price": 58, "date": "01/04/2020" },
+      { "price": 31, "date": "01/05/2020" },
+      { "price": 17, "date": "01/06/2020" },
+      { "price": 28, "date": "01/07/2020" },
+      { "price": 42, "date": "01/08/2020" },
+      { "price": 16, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "IOC",
+    "data": [
+      { "price": 64, "date": "01/01/2020" },
+      { "price": 9, "date": "01/02/2020" },
+      { "price": 18, "date": "01/03/2020" },
+      { "price": 100, "date": "01/04/2020" },
+      { "price": 26, "date": "01/05/2020" },
+      { "price": 42, "date": "01/06/2020" },
+      { "price": 12, "date": "01/07/2020" },
+      { "price": 38, "date": "01/08/2020" },
+      { "price": 39, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ITC",
+    "data": [
+      { "price": 72, "date": "01/01/2020" },
+      { "price": 25, "date": "01/02/2020" },
+      { "price": 14, "date": "01/03/2020" },
+      { "price": 42, "date": "01/04/2020" },
+      { "price": 55, "date": "01/05/2020" },
+      { "price": 96, "date": "01/06/2020" },
+      { "price": 30, "date": "01/07/2020" },
+      { "price": 19, "date": "01/08/2020" },
+      { "price": 100, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "JINDALSTEL",
+    "data": [
+      { "price": 70, "date": "01/01/2020" },
+      { "price": 74, "date": "01/02/2020" },
+      { "price": 67, "date": "01/03/2020" },
+      { "price": 21, "date": "01/04/2020" },
+      { "price": 47, "date": "01/05/2020" },
+      { "price": 72, "date": "01/06/2020" },
+      { "price": 29, "date": "01/07/2020" },
+      { "price": 37, "date": "01/08/2020" },
+      { "price": 11, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "JSWSTEEL",
+    "data": [
+      { "price": 70, "date": "01/01/2020" },
+      { "price": 32, "date": "01/02/2020" },
+      { "price": 41, "date": "01/03/2020" },
+      { "price": 62, "date": "01/04/2020" },
+      { "price": 5, "date": "01/05/2020" },
+      { "price": 38, "date": "01/06/2020" },
+      { "price": 72, "date": "01/07/2020" },
+      { "price": 2, "date": "01/08/2020" },
+      { "price": 77, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "JUBLFOOD",
+    "data": [
+      { "price": 19, "date": "01/01/2020" },
+      { "price": 9, "date": "01/02/2020" },
+      { "price": 38, "date": "01/03/2020" },
+      { "price": 6, "date": "01/04/2020" },
+      { "price": 35, "date": "01/05/2020" },
+      { "price": 99, "date": "01/06/2020" },
+      { "price": 42, "date": "01/07/2020" },
+      { "price": 62, "date": "01/08/2020" },
+      { "price": 47, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "KOTAKBANK",
+    "data": [
+      { "price": 25, "date": "01/01/2020" },
+      { "price": 24, "date": "01/02/2020" },
+      { "price": 44, "date": "01/03/2020" },
+      { "price": 56, "date": "01/04/2020" },
+      { "price": 74, "date": "01/05/2020" },
+      { "price": 86, "date": "01/06/2020" },
+      { "price": 14, "date": "01/07/2020" },
+      { "price": 54, "date": "01/08/2020" },
+      { "price": 1, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "LT",
+    "data": [
+      { "price": 11, "date": "01/01/2020" },
+      { "price": 9, "date": "01/02/2020" },
+      { "price": 95, "date": "01/03/2020" },
+      { "price": 74, "date": "01/04/2020" },
+      { "price": 7, "date": "01/05/2020" },
+      { "price": 93, "date": "01/06/2020" },
+      { "price": 71, "date": "01/07/2020" },
+      { "price": 22, "date": "01/08/2020" },
+      { "price": 46, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "LUPIN",
+    "data": [
+      { "price": 45, "date": "01/01/2020" },
+      { "price": 19, "date": "01/02/2020" },
+      { "price": 64, "date": "01/03/2020" },
+      { "price": 14, "date": "01/04/2020" },
+      { "price": 29, "date": "01/05/2020" },
+      { "price": 45, "date": "01/06/2020" },
+      { "price": 28, "date": "01/07/2020" },
+      { "price": 30, "date": "01/08/2020" },
+      { "price": 49, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "M&M",
+    "data": [
+      { "price": 16, "date": "01/01/2020" },
+      { "price": 76, "date": "01/02/2020" },
+      { "price": 59, "date": "01/03/2020" },
+      { "price": 12, "date": "01/04/2020" },
+      { "price": 79, "date": "01/05/2020" },
+      { "price": 68, "date": "01/06/2020" },
+      { "price": 60, "date": "01/07/2020" },
+      { "price": 44, "date": "01/08/2020" },
+      { "price": 41, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "MARICO",
+    "data": [
+      { "price": 73, "date": "01/01/2020" },
+      { "price": 89, "date": "01/02/2020" },
+      { "price": 36, "date": "01/03/2020" },
+      { "price": 70, "date": "01/04/2020" },
+      { "price": 50, "date": "01/05/2020" },
+      { "price": 47, "date": "01/06/2020" },
+      { "price": 16, "date": "01/07/2020" },
+      { "price": 91, "date": "01/08/2020" },
+      { "price": 94, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "MARUTI",
+    "data": [
+      { "price": 50, "date": "01/01/2020" },
+      { "price": 84, "date": "01/02/2020" },
+      { "price": 27, "date": "01/03/2020" },
+      { "price": 96, "date": "01/04/2020" },
+      { "price": 100, "date": "01/05/2020" },
+      { "price": 77, "date": "01/06/2020" },
+      { "price": 18, "date": "01/07/2020" },
+      { "price": 20, "date": "01/08/2020" },
+      { "price": 99, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "MCDOWELL-N",
+    "data": [
+      { "price": 1, "date": "01/01/2020" },
+      { "price": 32, "date": "01/02/2020" },
+      { "price": 10, "date": "01/03/2020" },
+      { "price": 67, "date": "01/04/2020" },
+      { "price": 39, "date": "01/05/2020" },
+      { "price": 87, "date": "01/06/2020" },
+      { "price": 28, "date": "01/07/2020" },
+      { "price": 86, "date": "01/08/2020" },
+      { "price": 97, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "NAUKRI",
+    "data": [
+      { "price": 46, "date": "01/01/2020" },
+      { "price": 21, "date": "01/02/2020" },
+      { "price": 36, "date": "01/03/2020" },
+      { "price": 95, "date": "01/04/2020" },
+      { "price": 89, "date": "01/05/2020" },
+      { "price": 14, "date": "01/06/2020" },
+      { "price": 1, "date": "01/07/2020" },
+      { "price": 60, "date": "01/08/2020" },
+      { "price": 25, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "NTPC",
+    "data": [
+      { "price": 19, "date": "01/01/2020" },
+      { "price": 2, "date": "01/02/2020" },
+      { "price": 28, "date": "01/03/2020" },
+      { "price": 92, "date": "01/04/2020" },
+      { "price": 90, "date": "01/05/2020" },
+      { "price": 81, "date": "01/06/2020" },
+      { "price": 82, "date": "01/07/2020" },
+      { "price": 66, "date": "01/08/2020" },
+      { "price": 87, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ONGC",
+    "data": [
+      { "price": 57, "date": "01/01/2020" },
+      { "price": 65, "date": "01/02/2020" },
+      { "price": 58, "date": "01/03/2020" },
+      { "price": 8, "date": "01/04/2020" },
+      { "price": 14, "date": "01/05/2020" },
+      { "price": 8, "date": "01/06/2020" },
+      { "price": 34, "date": "01/07/2020" },
+      { "price": 37, "date": "01/08/2020" },
+      { "price": 78, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "PEL",
+    "data": [
+      { "price": 100, "date": "01/01/2020" },
+      { "price": 46, "date": "01/02/2020" },
+      { "price": 100, "date": "01/03/2020" },
+      { "price": 94, "date": "01/04/2020" },
+      { "price": 39, "date": "01/05/2020" },
+      { "price": 39, "date": "01/06/2020" },
+      { "price": 44, "date": "01/07/2020" },
+      { "price": 100, "date": "01/08/2020" },
+      { "price": 44, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "PIDILITE",
+    "data": [
+      { "price": 10, "date": "01/01/2020" },
+      { "price": 75, "date": "01/02/2020" },
+      { "price": 77, "date": "01/03/2020" },
+      { "price": 13, "date": "01/04/2020" },
+      { "price": 82, "date": "01/05/2020" },
+      { "price": 24, "date": "01/06/2020" },
+      { "price": 34, "date": "01/07/2020" },
+      { "price": 74, "date": "01/08/2020" },
+      { "price": 58, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "PNB",
+    "data": [
+      { "price": 74, "date": "01/01/2020" },
+      { "price": 37, "date": "01/02/2020" },
+      { "price": 51, "date": "01/03/2020" },
+      { "price": 13, "date": "01/04/2020" },
+      { "price": 33, "date": "01/05/2020" },
+      { "price": 9, "date": "01/06/2020" },
+      { "price": 12, "date": "01/07/2020" },
+      { "price": 64, "date": "01/08/2020" },
+      { "price": 10, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "POWER GRID",
+    "data": [
+      { "price": 16, "date": "01/01/2020" },
+      { "price": 24, "date": "01/02/2020" },
+      { "price": 1, "date": "01/03/2020" },
+      { "price": 36, "date": "01/04/2020" },
+      { "price": 24, "date": "01/05/2020" },
+      { "price": 39, "date": "01/06/2020" },
+      { "price": 26, "date": "01/07/2020" },
+      { "price": 14, "date": "01/08/2020" },
+      { "price": 58, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "RELIANCE",
+    "data": [
+      { "price": 42, "date": "01/01/2020" },
+      { "price": 58, "date": "01/02/2020" },
+      { "price": 30, "date": "01/03/2020" },
+      { "price": 81, "date": "01/04/2020" },
+      { "price": 79, "date": "01/05/2020" },
+      { "price": 2, "date": "01/06/2020" },
+      { "price": 56, "date": "01/07/2020" },
+      { "price": 95, "date": "01/08/2020" },
+      { "price": 39, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "SAIL",
+    "data": [
+      { "price": 58, "date": "01/01/2020" },
+      { "price": 10, "date": "01/02/2020" },
+      { "price": 69, "date": "01/03/2020" },
+      { "price": 38, "date": "01/04/2020" },
+      { "price": 23, "date": "01/05/2020" },
+      { "price": 22, "date": "01/06/2020" },
+      { "price": 78, "date": "01/07/2020" },
+      { "price": 13, "date": "01/08/2020" },
+      { "price": 14, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "SBIN",
+    "data": [
+      { "price": 57, "date": "01/01/2020" },
+      { "price": 93, "date": "01/02/2020" },
+      { "price": 44, "date": "01/03/2020" },
+      { "price": 74, "date": "01/04/2020" },
+      { "price": 76, "date": "01/05/2020" },
+      { "price": 17, "date": "01/06/2020" },
+      { "price": 77, "date": "01/07/2020" },
+      { "price": 1, "date": "01/08/2020" },
+      { "price": 17, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "SUNPHARMA",
+    "data": [
+      { "price": 33, "date": "01/01/2020" },
+      { "price": 57, "date": "01/02/2020" },
+      { "price": 65, "date": "01/03/2020" },
+      { "price": 51, "date": "01/04/2020" },
+      { "price": 10, "date": "01/05/2020" },
+      { "price": 48, "date": "01/06/2020" },
+      { "price": 94, "date": "01/07/2020" },
+      { "price": 57, "date": "01/08/2020" },
+      { "price": 100, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TATACONSUM",
+    "data": [
+      { "price": 18, "date": "01/01/2020" },
+      { "price": 41, "date": "01/02/2020" },
+      { "price": 83, "date": "01/03/2020" },
+      { "price": 32, "date": "01/04/2020" },
+      { "price": 81, "date": "01/05/2020" },
+      { "price": 35, "date": "01/06/2020" },
+      { "price": 76, "date": "01/07/2020" },
+      { "price": 46, "date": "01/08/2020" },
+      { "price": 91, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TATAMOTORS",
+    "data": [
+      { "price": 73, "date": "01/01/2020" },
+      { "price": 74, "date": "01/02/2020" },
+      { "price": 47, "date": "01/03/2020" },
+      { "price": 75, "date": "01/04/2020" },
+      { "price": 70, "date": "01/05/2020" },
+      { "price": 79, "date": "01/06/2020" },
+      { "price": 80, "date": "01/07/2020" },
+      { "price": 23, "date": "01/08/2020" },
+      { "price": 24, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TATASTEEL",
+    "data": [
+      { "price": 45, "date": "01/01/2020" },
+      { "price": 83, "date": "01/02/2020" },
+      { "price": 89, "date": "01/03/2020" },
+      { "price": 8, "date": "01/04/2020" },
+      { "price": 19, "date": "01/05/2020" },
+      { "price": 33, "date": "01/06/2020" },
+      { "price": 100, "date": "01/07/2020" },
+      { "price": 36, "date": "01/08/2020" },
+      { "price": 23, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TCS",
+    "data": [
+      { "price": 63, "date": "01/01/2020" },
+      { "price": 49, "date": "01/02/2020" },
+      { "price": 85, "date": "01/03/2020" },
+      { "price": 18, "date": "01/04/2020" },
+      { "price": 87, "date": "01/05/2020" },
+      { "price": 22, "date": "01/06/2020" },
+      { "price": 81, "date": "01/07/2020" },
+      { "price": 57, "date": "01/08/2020" },
+      { "price": 28, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TECHM",
+    "data": [
+      { "price": 74, "date": "01/01/2020" },
+      { "price": 8, "date": "01/02/2020" },
+      { "price": 74, "date": "01/03/2020" },
+      { "price": 38, "date": "01/04/2020" },
+      { "price": 74, "date": "01/05/2020" },
+      { "price": 46, "date": "01/06/2020" },
+      { "price": 5, "date": "01/07/2020" },
+      { "price": 49, "date": "01/08/2020" },
+      { "price": 50, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TITAN",
+    "data": [
+      { "price": 69, "date": "01/01/2020" },
+      { "price": 60, "date": "01/02/2020" },
+      { "price": 78, "date": "01/03/2020" },
+      { "price": 85, "date": "01/04/2020" },
+      { "price": 19, "date": "01/05/2020" },
+      { "price": 9, "date": "01/06/2020" },
+      { "price": 11, "date": "01/07/2020" },
+      { "price": 23, "date": "01/08/2020" },
+      { "price": 23, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "TORRENTPHARM",
+    "data": [
+      { "price": 94, "date": "01/01/2020" },
+      { "price": 92, "date": "01/02/2020" },
+      { "price": 6, "date": "01/03/2020" },
+      { "price": 75, "date": "01/04/2020" },
+      { "price": 19, "date": "01/05/2020" },
+      { "price": 88, "date": "01/06/2020" },
+      { "price": 99, "date": "01/07/2020" },
+      { "price": 29, "date": "01/08/2020" },
+      { "price": 18, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "ULTRACEMCO",
+    "data": [
+      { "price": 37, "date": "01/01/2020" },
+      { "price": 60, "date": "01/02/2020" },
+      { "price": 12, "date": "01/03/2020" },
+      { "price": 51, "date": "01/04/2020" },
+      { "price": 94, "date": "01/05/2020" },
+      { "price": 42, "date": "01/06/2020" },
+      { "price": 29, "date": "01/07/2020" },
+      { "price": 44, "date": "01/08/2020" },
+      { "price": 9, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "UPL ",
+    "data": [
+      { "price": 81, "date": "01/01/2020" },
+      { "price": 12, "date": "01/02/2020" },
+      { "price": 80, "date": "01/03/2020" },
+      { "price": 26, "date": "01/04/2020" },
+      { "price": 22, "date": "01/05/2020" },
+      { "price": 79, "date": "01/06/2020" },
+      { "price": 89, "date": "01/07/2020" },
+      { "price": 38, "date": "01/08/2020" },
+      { "price": 95, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "VEDL",
+    "data": [
+      { "price": 94, "date": "01/01/2020" },
+      { "price": 31, "date": "01/02/2020" },
+      { "price": 74, "date": "01/03/2020" },
+      { "price": 92, "date": "01/04/2020" },
+      { "price": 1, "date": "01/05/2020" },
+      { "price": 36, "date": "01/06/2020" },
+      { "price": 73, "date": "01/07/2020" },
+      { "price": 36, "date": "01/08/2020" },
+      { "price": 60, "date": "01/09/2020" }
+    ]
+  },
+  {
+    "company_name": "WIPRO",
+    "data": [
+      { "price": 89, "date": "01/01/2020" },
+      { "price": 23, "date": "01/02/2020" },
+      { "price": 26, "date": "01/03/2020" },
+      { "price": 72, "date": "01/04/2020" },
+      { "price": 44, "date": "01/05/2020" },
+      { "price": 78, "date": "01/06/2020" },
+      { "price": 100, "date": "01/07/2020" },
+      { "price": 47, "date": "01/08/2020" },
+      { "price": 71, "date": "01/09/2020" }
+    ]
+  }
+]
