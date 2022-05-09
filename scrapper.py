@@ -25,14 +25,18 @@ def getData(company_name):
         "#profit-loss tr:nth-child(1) > td:not(:first-child)")]
     operatingProfit_tds = [td.text for td in soup.select(
         "#profit-loss tr:nth-child(3) > td:not(:first-child)")]
+    otherIncome_tds = [td.text for td in soup.select(
+        "#profit-loss tr:nth-child(5) > td:not(:first-child)")]
+    interest_tds = [td.text for td in soup.select(
+        "#profit-loss tr:nth-child(6) > td:not(:first-child)")]
     netProfit_tds = [td.text for td in soup.select(
         "#profit-loss tr:nth-child(10) > td:not(:first-child)")]
     eps_tds = [td.text for td in soup.select(
         "#profit-loss tr:nth-child(11) > td:not(:first-child)")]
 
-    for td in zip(dates_trs, sales_tds, operatingProfit_tds, netProfit_tds, eps_tds):
+    for td in zip(dates_trs, sales_tds, operatingProfit_tds, otherIncome_tds, interest_tds, netProfit_tds, eps_tds):
         data["data"].append(
-            {"Date": td[0], "Sales": td[1], "Operating Profit": td[2], "Net Profit": td[3], "EPS": td[4]})
+            {"Date": td[0], "Sales": td[1], "Operating Profit": td[2], "Other Income": td[3], "Interest": td[4], "Net Profit": td[5], "EPS": td[6]})
 
     if len(data["data"]) == 0:
         print("Sorry, no data found for {0}".format(company_name))
