@@ -1,17 +1,15 @@
 import React from "react";
 import Navbar1 from "./Navbar1";
 import SideMenu from "./SideMenu";
-import Dashboard from "./Dashboard";
 import Team from "./Team";
 import Contact from "./Contact";
 import About from "./About";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import FAQ from "./FAQ";
 import AlgoTrading from "./AlgoTrading";
 import SignUp from "./SignUp";
 import Login from "./Login";
 import UpdateProfile from "./UpdateProfile";
-// import { AuthProvider } from "../contexts/AuthContext";
 import Stocks from "./Stocks";
 import StockDetails from "./StockDetails";
 

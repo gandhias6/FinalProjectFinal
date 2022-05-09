@@ -1,7 +1,6 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import { useParams } from "react-router-dom";
-import logo from "../components/Wipro-logo.png";
 import { LineChart, Line, CartesianGrid, XAxis, YAxis } from "recharts";
 
 import "./SearchBar.css";
@@ -49,35 +48,20 @@ const StockDetails = () => {
       }}
     >
       <div className="nameLogo">
-        <img src={logo} alt="" />
         <h2>{company_name}</h2>
       </div>
 
       <div className="aboutStock">
-        <Row>
-          <Col>
-            <p>Market Cap: 3,00,000 cr</p>
-          </Col>
-          <Col>
-            <p> LTP: 600</p>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <p>52 Week-high : 700</p>
-          </Col>
-          <Col>
-            <p>52 Week-low : 450</p>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <p>Stock P/E : 25</p>
-          </Col>
-          <Col>
-            <p>Industry P/E : 34</p>
-          </Col>
-        </Row>
+        <p>Market Cap : 254622 Cr</p>
+        <p>Book Value : 23</p>
+        <p>Face Value : 2</p>
+        <p>Dividend Yeild : 2 %</p>
+        <p>P.E Stock : 6.88 %</p>
+        <p>P.E Industry : 86.23 %</p>
+        <br />
+        <p>Lower Band Price : 543</p>
+        <p>Predicted Price : 601</p>
+        <p>Higher Band Price : 675</p>
       </div>
 
       <div className="balanceSheet">
